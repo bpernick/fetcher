@@ -1,8 +1,18 @@
 # Systems Assignment
 
-## What is it?
+## Build Instructions
+Simply cd into the root directory for the project, run go build fetcher.go, and move the resulting binary file into your /bin directory.
 
-This exercise is a follow-on to the [General Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment), you'll need to complete that first.  In this assignment you'll write a program that makes a request to the endpoints you created in the General Assignment.  This is a systems assignment so we want to see that you're able to use sockets directly rather than using a library that handles the HTTP request.
+Run example:
+fetcher --url http://example.com/ --profile 5
+
+## Examples
+![./Screen Shot 2020-10-24 at 3.04.58 PM.png]
+![./Screen Shot 2020-10-24 at 3.07.44 PM.png]
+![./Screen Shot 2020-10-24 at 3.16.50 PM.png]
+![./Screen Shot 2020-10-24 at 3.20.19 PM.png]
+![./Screen Shot 2020-10-24 at 3.20.19 PM.png]
+![./Screen Shot 2020-10-24 at 12.48.17 PM.png]
 
 ## Useful Links
 
