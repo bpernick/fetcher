@@ -7,12 +7,12 @@ Run example:
 fetcher --url http://example.com/ --profile 5
 
 ## Examples
-![](./Screen Shot 2020-10-24 at 3.04.58 PM.png)
-![](./Screen Shot 2020-10-24 at 3.07.44 PM.png)
-![](./Screen Shot 2020-10-24 at 3.16.50 PM.png)
-![](./Screen Shot 2020-10-24 at 3.20.19 PM.png)
-![](./Screen Shot 2020-10-24 at 3.20.19 PM.png)
-![](./Screen Shot 2020-10-24 at 12.48.17 PM.png)
+![](Screen Shot 2020-10-24 at 3.04.58 PM.png)
+![](Screen Shot 2020-10-24 at 3.07.44 PM.png)
+![](Screen Shot 2020-10-24 at 3.16.50 PM.png)
+![](Screen Shot 2020-10-24 at 3.20.19 PM.png)
+![](Screen Shot 2020-10-24 at 3.20.19 PM.png)
+![](Screen Shot 2020-10-24 at 12.48.17 PM.png)
 
 ## Useful Links
 
